@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "updated_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Lat": 10.74866619, "Lon": 76.85879364, "Area": "Eruthenpathy", "Locality": "Krishi Bhavan" }, "geometry": { "type": "Point", "coordinates": [ 76.873, 10.738 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.73595019, "Lon": 76.82999565, "Area": "Kozhinjampara", "Locality": "Krishi Bhavan" }, "geometry": { "type": "Point", "coordinates": [ 76.824, 10.737 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.72918673, "Lon": 76.78622876, "Area": "Nallepilly", "Locality": "Krishi Bhavan" }, "geometry": { "type": "Point", "coordinates": [ 76.784, 10.731 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.64777998, "Lon": 76.73270522, "Area": "Pattanchery", "Locality": "Krishi Bhavan" }, "geometry": { "type": "Point", "coordinates": [ 76.733, 10.655 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.662, "Lon": 76.787, "Area": "Perumatty", "Locality": "Krishi Bhavan" }, "geometry": { "type": "Point", "coordinates": [ 76.787, 10.662 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.807, "Lon": 76.846, "Area": "Vadakarapathy", "Locality": "Krishi Bhavan" }, "geometry": { "type": "Point", "coordinates": [ 76.846, 10.807 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.69300691, "Lon": 76.72595507, "Area": "Chittur-Thathamangalam", "Locality": "Local Body Office" }, "geometry": { "type": "Point", "coordinates": [ 76.725, 10.693 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.736, "Lon": 76.862, "Area": "Eruthenpathy", "Locality": "Local Body Office" }, "geometry": { "type": "Point", "coordinates": [ 76.862, 10.736 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.738, "Lon": 76.834, "Area": "Kozhinjampara", "Locality": "Local Body Office" }, "geometry": { "type": "Point", "coordinates": [ 76.834, 10.738 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.73, "Lon": 76.786, "Area": "Nallepilly", "Locality": "Local Body Office" }, "geometry": { "type": "Point", "coordinates": [ 76.786, 10.73 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.64975298, "Lon": 76.76319652, "Area": "Perumatty", "Locality": "Local Body Office" }, "geometry": { "type": "Point", "coordinates": [ 76.763, 10.65 ] } },
+{ "type": "Feature", "properties": { "Lat": 10.81, "Lon": 76.846, "Area": "Vadakarapathy", "Locality": "Local Body Office" }, "geometry": { "type": "Point", "coordinates": [ 76.846, 10.81 ] } }
+]
+}

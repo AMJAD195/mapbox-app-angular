@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "mapboxApp"
+  "defaultProject": "mapboxApp",
+  "cli": {
+    "analytics": "7dfc1b5b-3a0d-432d-a47b-41df252751e2"
+  }
 }
